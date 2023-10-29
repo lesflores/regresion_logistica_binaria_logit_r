@@ -1,5 +1,5 @@
 # regresion_logistica_binaria_logit_r
-Este repositorio contiene un ejemplo ilustrativo de cómo utilizar la regresión logística binaria/logit en R.
+Aquí te presento un ejemplo ilustrativo de cómo utilizar la regresión logística binaria/logit en R.
 
 El código simula un conjunto de datos ficticios que relacionan la tasa de desempleo con la probabilidad de protesta. Suponemos que la probabilidad de una protesta aumenta en un 10% por cada 1% de aumento en desempleo.
 ## Variables 
