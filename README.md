@@ -4,6 +4,7 @@ Este repositorio contiene un ejemplo ilustrativo de cómo utilizar la regresión
 El código simula un conjunto de datos ficticios que relacionan la tasa de desempleo con la probabilidad de protesta. Suponemos que la probabilidad de una protesta aumenta en un 10% por cada 1% de aumento en desempleo.
 ## Variables 
 **tasas_desempleo**: Tasas de desempleo promedio, con una media del 7% y una desviación estándar del 1.5%.
+
 **protesta**: Es una variable binaria que indica si hubo (1) o no hubo (0) una protesta. 
 
 ## Pasos 
